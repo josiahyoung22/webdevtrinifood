@@ -1,6 +1,6 @@
 # TriniFood - Taste the Caribbean
 
-A responsive 6-page website showcasing the culinary delights of Trinidad and Tobago.
+A responsive 6 page website showcasing the culinary delights of Trinidad and Tobago.
 
 ## Project Overview
 This project is a personal assignment to build a responsive website using HTML5, CSS3, and JavaScript. It features a custom design, interactive elements, and is optimized for performance.
